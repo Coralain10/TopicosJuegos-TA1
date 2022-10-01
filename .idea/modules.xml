@@ -3,10 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/TA1.iml" filepath="$PROJECT_DIR$/.idea/modules/TA1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android/TA1.android.iml" filepath="$PROJECT_DIR$/.idea/modules/android/TA1.android.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android/TA1.android.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/android/TA1.android.androidTest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android/TA1.android.main.iml" filepath="$PROJECT_DIR$/.idea/modules/android/TA1.android.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android/TA1.android.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/android/TA1.android.unitTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/core/TA1.core.iml" filepath="$PROJECT_DIR$/.idea/modules/core/TA1.core.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/core/TA1.core.main.iml" filepath="$PROJECT_DIR$/.idea/modules/core/TA1.core.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/core/TA1.core.test.iml" filepath="$PROJECT_DIR$/.idea/modules/core/TA1.core.test.iml" />
