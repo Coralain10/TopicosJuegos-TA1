@@ -8,6 +8,10 @@ public class Circle extends Element {
         super(x+size/2, y+size/2, size/2);
     }
 
+    public Circle(int x, int y, int size, int xSpeed, int ySpeed) {
+        super(x+size/2, y+size/2, size/2, xSpeed, ySpeed);
+    }
+
     protected void draw(ShapeRenderer shapeRenderer) {
         shapeRenderer.setColor(color);
         shapeRenderer.circle(x,y,size);
